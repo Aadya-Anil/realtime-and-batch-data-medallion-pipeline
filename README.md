@@ -2,7 +2,7 @@
 ### By Aadya Anil Kumar 
 
 ---
-
+Demo Link : https://drive.google.com/file/d/1fyiRKXTdU8Df9fMkiGtAxS5qP1uASoEJ/view?usp=drive_link
 ## Overview
 This project implements a full Medallion Architecture (Bronze → Silver → Gold) using two data pipelines:
 
